@@ -7,7 +7,7 @@
     <style>
         :root {
             --gold: #C5A059;
-            --dark-bg: #0A0F1D;
+            --dark-bg: #0A0F3D;
             --card-bg: #141B2D;
             --text-white: #FFFFFF;
             --text-grey: #A0AEC0;
