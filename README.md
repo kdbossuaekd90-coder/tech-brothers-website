@@ -5,10 +5,10 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Tech Brothers - Data Entry & Digital Business Solutions</title>
     <style>
-        :root {
-            --gold: #C5A059;
-            --dark-bg: #0A0F3D;
-            --card-bg: #141B2D;
+        :root { Ctrl + F5
+            --gold: #0A0F1D
+            --dark-bg: #141B2D
+            --card-bg: #C5A059
             --text-white: #FFFFFF;
             --text-grey: #A0AEC0;
         }
